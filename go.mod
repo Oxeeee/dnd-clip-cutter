@@ -1,4 +1,4 @@
-module oxytocingroup.com
+module github.com/Oxeeee/dnd-clip-cutter
 
 go 1.23.1
 
